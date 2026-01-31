@@ -21,13 +21,17 @@ Not to build a community or grow adoption. The reason is **scrutiny**.
 
 More eyes on the code means more confidence in its integrity. If other humans connect with this philosophy, they're welcome to contribute — but that's a side effect, not the goal.
 
-**There is no value in this framework itself.** The value lies in the instances of agents deployed using it — agents that their humans can actually trust.
-
 ---
 
 ## Trust Model
 
 Before you proceed, understand exactly what you're trusting.
+
+### Rule #1: Understand and Verify
+
+As you proceed with the setup, you will add trust assumptions on code libraries and infrastructure providers.
+
+**Just remember Rule #1: understand and verify the whole repo code before you fully start trusting it.**
 
 ### 1. Verify This Repository
 
@@ -51,12 +55,29 @@ These will be explicitly called out as you encounter them. Start with just assum
 
 ---
 
+## Current Count
+
+*Recomputed before every push.*
+
+| Metric | Count |
+|--------|-------|
+| **Words to read** | 656 |
+| **Markdown files** | 2 |
+| **Lines of code** | 0 |
+
+### By Language
+
+| Language | Lines |
+|----------|-------|
+| TypeScript | 0 |
+| JavaScript | 0 |
+| Shell | 0 |
+| JSON | 0 |
+
+---
+
 ## Getting Started
 
 Ready to begin? Start here:
 
 → **[setup.md](./setup.md)**
-
----
-
-*This is not a product. This is a contract between you and your agent.*
