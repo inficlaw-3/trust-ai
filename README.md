@@ -27,12 +27,6 @@ More eyes on the code means more confidence in its integrity. If other humans co
 
 Before you proceed, understand exactly what you're trusting.
 
-### Rule #1: Understand and Verify
-
-As you proceed with the setup, you will add trust assumptions on code libraries and infrastructure providers.
-
-**Just remember Rule #1: understand and verify the whole repo code before you fully start trusting it.**
-
 ### 1. Verify This Repository
 
 Don't trust — verify. Trust only your brain's comprehension of every word and line of code in this repository.
