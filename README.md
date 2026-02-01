@@ -35,9 +35,7 @@ As you proceed with the setup, you will add trust assumptions on code libraries 
 
 ### 1. Verify This Repository
 
-Don't trust — **verify**.
-
-You need to read and understand **every single word and line of code** in this repository. Trust only your brain's comprehension of it.
+Don't trust — verify. Trust only your brain's comprehension of every word and line of code in this repository.
 
 If you can't or won't verify it yourself, you can delegate this trust to another human who verifies it for you. But understand: you're then trusting that person, not the code directly.
 
@@ -56,8 +54,6 @@ These will be explicitly called out as you encounter them. Start with just assum
 ---
 
 ## Current Count
-
-*Recomputed before every push.*
 
 | Metric | Count |
 |--------|-------|
