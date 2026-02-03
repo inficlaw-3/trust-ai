@@ -15,12 +15,6 @@ It provides:
 
 This is personalized and optimized for how infiloop2 thinks about trust and control.
 
-### Why Open Source?
-
-Not to build a community or grow adoption. The reason is **scrutiny**.
-
-More eyes on the code means more confidence in its integrity. If other humans connect with this philosophy, they're welcome to contribute — but that's a side effect, not the goal.
-
 ---
 
 ## Trust Model
